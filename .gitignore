@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Reac APP ###
+
+src/frontend/node_modules
